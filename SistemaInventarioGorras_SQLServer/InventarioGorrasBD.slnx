@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Elementos de la solución/">
+    <File Path="Gorra.cs" />
+  </Folder>
+  <Project Path="InventarioGorrasBD.csproj" />
+</Solution>
